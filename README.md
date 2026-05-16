@@ -60,11 +60,7 @@ text
 
 ### 步骤
 
-1. **克隆仓库**
-   ```bash
-   git clone https://github.com/yourname/LTYAItoElPiano.git
-   cd LTYAItoElPiano
-准备资源（必须）
+1. **准备资源（必须）**
 
 将您的 MIDI 文件通过 Python 预处理生成 midi_events.json 和 cut_notes/ 文件夹（参考下方“资源预处理”）。
 
